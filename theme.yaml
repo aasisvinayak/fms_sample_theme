@@ -1,4 +1,4 @@
-name: sample
-description: Sample theme for FlyMyShop
-author: acev
-
+theme_name: Sample
+theme_version: 0.1
+theme_description:  Sample theme for FlyMyShop
+theme_author: acev
