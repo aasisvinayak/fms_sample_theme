@@ -1,1 +1,2 @@
-# fmc_sample_theme
+# Sample Theme for FlyMyShop
+
